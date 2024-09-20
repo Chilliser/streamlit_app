@@ -119,7 +119,7 @@ def generate_contour_plot(grid_lat, grid_lon, grid_z, output_filename):
     plt.close(fig)
 
 # Streamlit Section
-st.title('PM2.5 Contour and Sensor Map')
+st.title('Isopleth map showing PM2.5 dust concentration in each area.')  # เปลี่ยนชื่อที่นี่
 
 contour_img_filename = 'contour_plot.png'
 generate_contour_plot(grid_lat, grid_lon, grid_z, contour_img_filename)
