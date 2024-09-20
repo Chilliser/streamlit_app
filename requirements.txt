@@ -1,0 +1,7 @@
+streamlit
+folium
+gspread
+oauth2client
+matplotlib
+gdown
+streamlit-folium
