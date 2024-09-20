@@ -5,4 +5,4 @@ oauth2client
 matplotlib
 gdown
 streamlit-folium
-scipy
+scipy #ลอง
